@@ -1,6 +1,6 @@
 function main () {
 
-    var x = 0
+    var x = 8
 
 return x;
 
