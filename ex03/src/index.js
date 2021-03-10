@@ -1,6 +1,6 @@
 function main() { 
 
-    var fooBar;
+    var forCat;
 
 }
 
